@@ -1,0 +1,5 @@
+#Project's main gitignore file.
+
+#JetBrains products
+.idea
+*.iml
