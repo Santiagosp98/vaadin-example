@@ -3,3 +3,6 @@
 #JetBrains products
 .idea
 *.iml
+
+#Maven
+target
